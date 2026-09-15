@@ -4,7 +4,7 @@
 
 To interface a 16×2 LCD display with Arduino UNO using an I2C module and display temperature and humidity data obtained from a DHT11 sensor.
 
-## Components Required
+## Components Required 
 
 * Arduino UNO
 * 16×2 LCD
