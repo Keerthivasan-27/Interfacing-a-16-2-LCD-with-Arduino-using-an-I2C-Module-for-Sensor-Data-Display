@@ -7,7 +7,7 @@ To interface a **16×2 LCD display with Arduino using an I2C module** and displa
 ## Objectives  
 
 - To understand the operation of a 16×2 LCD.
-- To interface the LCD with Arduino using an I2C module.
+- To interface the LCD with Arduino using an I2C module.  
 - To reduce the number of GPIO pins required for LCD communication.
 - To read sensor data using Arduino.
 - To display the sensor readings on the LCD.
