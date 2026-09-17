@@ -35,6 +35,7 @@ To interface a **16×2 LCD display with Arduino using an I2C module** and displa
 <img width="1536" height="1024" alt="ChatGPT Image Sep 8, 2026, 02_46_17 PM" src="https://github.com/user-attachments/assets/b46ab1c7-beaa-4044-a6a6-de27bae174ee" />
 
 
+
 ## Components
 
 ### 16×2 LCD
